@@ -1,9 +1,5 @@
 ## Hello, I'm Felipe Moraes
 
-
-- 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Python
-
 <div align="center">
   <a href="https://github.com/Felipe0599">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe0599&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
